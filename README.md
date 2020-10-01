@@ -1,4 +1,4 @@
-# ipmux
+# ipmux 
 IP GeoLocation in termux
 
 Installion
@@ -8,7 +8,7 @@ Installion
 * apt install wget
 * git clone https://github.com/Amriez/ipmux
 * cd ipmux
-* sh ipmux.sh
+* sh ipmux.sh or bash ipmux.sh or ./ipmux
 
 Geolocation Information
 ====
